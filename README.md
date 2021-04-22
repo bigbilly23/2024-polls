@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 2024 Democratic Primary Polls
 
-You can use the [editor on GitHub](https://github.com/bigbilly23/2024-polls/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+by Suraj Rampure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This dataset, downloaded from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/polls) contains information from various pollsters regarding the 2024 federal election primaries for both Democrats and Republicans.
 
-### Markdown
+TODO: Put visualization here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bigbilly23/2024-polls/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The above visualization contains the results of McLaughin & Associates' polls for the Democratic primaries on December 9th, 2020, February 24th, 2021, and April 8th, 2021. It appears that while Michelle Obama was the early favorite, Kamala Harris is now the leading candidate per the polls. Gavin Newson made an entrance to the list in the most recent poll.
